@@ -4,11 +4,15 @@ This example repository is used for training with [CAPES](capesstack.io).
 
 ### Exercise Steps
 
-1. Review this [Markdown Overview](https://beegit.com/markdown-cheat-sheet).  
+STEP 1: Create your own **fork** of this main "git-basics" repository
 
-1. Use the Gitea GUI to add your name to the [student-list.md](./student-list.md).  
+STEP 2: Markdown Overview
+* take a few minutes to review this [Markdown Overview](https://beegit.com/markdown-cheat-sheet).  
 
-1. Fork and Pull Request
-  * create a fork of the training repo  
-  * add an entry in [pull-requests.md](./pull-requests.md) with your student number and name.  
-  * submit pull request (PR) to the origin repo  
+STEP 3: Make Changes in your Fork
+* in your fork of this repo, add your name to the [student-list.md](./student-list.md) and commit your changes.
+* after these changes, you now have a unique (updated) version of the original repo
+
+STEP 4: Make Pull Request
+* a "pull request" asks the owner of the original repository to, "please pull in my changes"
+* click the big green button to submit pull request (PR) to the origin repo  
